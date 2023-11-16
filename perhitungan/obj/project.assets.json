@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NUnit/4.0.0-beta.1": {
+        "type": "package",
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "xunit.analyzers/1.5.0": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "NUnit/4.0.0-beta.1": {
+      "sha512": "+Z2eZ+jXv+WDAvjcr/fhf1jlGojFdoDLdZ1NxsRuTUZO1nodEXdlrXPkGbRB8hIx57FAs8FkmfBhHih2TFbE2g==",
+      "type": "package",
+      "path": "nunit/4.0.0-beta.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.md",
+        "LICENSE.txt",
+        "NOTICES.md",
+        "README.md",
+        "THIRD_PARTY_NOTICES.md",
+        "build/NUnit.props",
+        "icon.png",
+        "lib/net462/nunit.framework.dll",
+        "lib/net462/nunit.framework.legacy.dll",
+        "lib/net462/nunit.framework.legacy.xml",
+        "lib/net462/nunit.framework.xml",
+        "lib/net6.0/nunit.framework.dll",
+        "lib/net6.0/nunit.framework.legacy.dll",
+        "lib/net6.0/nunit.framework.legacy.xml",
+        "lib/net6.0/nunit.framework.xml",
+        "nunit.4.0.0-beta.1.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "xunit.analyzers/1.5.0": {
+      "sha512": "dPj9CYrAIJO28N7PiM3ZEaQjAP8iFs8KlWihWwimtCYtL+DyuerAJUG59IB2R82kE9dCE7ytYkSwQXcOcsriNQ==",
+      "type": "package",
+      "path": "xunit.analyzers/1.5.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "_content/README.md",
+        "_content/logo-128-transparent.png",
+        "analyzers/dotnet/cs/xunit.analyzers.dll",
+        "analyzers/dotnet/cs/xunit.analyzers.fixes.dll",
+        "tools/install.ps1",
+        "tools/uninstall.ps1",
+        "xunit.analyzers.1.5.0.nupkg.sha512",
+        "xunit.analyzers.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "NUnit >= 4.0.0-beta.1",
+      "xunit.analyzers >= 1.5.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Dokumen\\stqa\\perhitungan\\perhitungan\\perhitungan.csproj",
+      "projectName": "perhitungan",
+      "projectPath": "C:\\Users\\ACER\\OneDrive\\Dokumen\\stqa\\perhitungan\\perhitungan\\perhitungan.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ACER\\OneDrive\\Dokumen\\stqa\\perhitungan\\perhitungan\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "NUnit": {
+            "target": "Package",
+            "version": "[4.0.0-beta.1, )"
+          },
+          "xunit.analyzers": {
+            "target": "Package",
+            "version": "[1.5.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nSuQvwyDDy43c2NWwVC2Kj1KUzsQao9H5oYQdF1z48o0ObQFWXkkeU+jjLHdeDu16JUmFo1oH4dDCocVoN546g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Dokumen\\stqa\\perhitungan\\perhitungan\\perhitungan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\nunit\\4.0.0-beta.1\\nunit.4.0.0-beta.1.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\xunit.analyzers\\1.5.0\\xunit.analyzers.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

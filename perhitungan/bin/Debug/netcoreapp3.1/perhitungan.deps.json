@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "perhitungan/1.0.0": {
+        "dependencies": {
+          "NUnit": "4.0.0-beta.1",
+          "xunit.analyzers": "1.5.0"
+        },
+        "runtime": {
+          "perhitungan.dll": {}
+        }
+      },
+      "NUnit/4.0.0-beta.1": {},
+      "xunit.analyzers/1.5.0": {}
+    }
+  },
+  "libraries": {
+    "perhitungan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit/4.0.0-beta.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+Z2eZ+jXv+WDAvjcr/fhf1jlGojFdoDLdZ1NxsRuTUZO1nodEXdlrXPkGbRB8hIx57FAs8FkmfBhHih2TFbE2g==",
+      "path": "nunit/4.0.0-beta.1",
+      "hashPath": "nunit.4.0.0-beta.1.nupkg.sha512"
+    },
+    "xunit.analyzers/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dPj9CYrAIJO28N7PiM3ZEaQjAP8iFs8KlWihWwimtCYtL+DyuerAJUG59IB2R82kE9dCE7ytYkSwQXcOcsriNQ==",
+      "path": "xunit.analyzers/1.5.0",
+      "hashPath": "xunit.analyzers.1.5.0.nupkg.sha512"
+    }
+  }
+}

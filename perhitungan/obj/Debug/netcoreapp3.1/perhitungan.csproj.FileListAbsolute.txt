@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\bin\Debug\netcoreapp3.1\perhitungan.exe
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\bin\Debug\netcoreapp3.1\perhitungan.deps.json
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\bin\Debug\netcoreapp3.1\perhitungan.runtimeconfig.json
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\bin\Debug\netcoreapp3.1\perhitungan.runtimeconfig.dev.json
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\bin\Debug\netcoreapp3.1\perhitungan.dll
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\bin\Debug\netcoreapp3.1\perhitungan.pdb
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\obj\Debug\netcoreapp3.1\perhitungan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\obj\Debug\netcoreapp3.1\perhitungan.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\obj\Debug\netcoreapp3.1\perhitungan.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\obj\Debug\netcoreapp3.1\perhitungan.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\obj\Debug\netcoreapp3.1\perhitungan.dll
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\obj\Debug\netcoreapp3.1\perhitungan.pdb
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\obj\Debug\netcoreapp3.1\perhitungan.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Dokumen\stqa\perhitungan\perhitungan\obj\Debug\netcoreapp3.1\perhitungan.csproj.AssemblyReference.cache
